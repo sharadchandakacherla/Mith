@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mith</string>
+    <string-array name="services1">
+        <item>beauty and fitness</item>
+        <item>carpentry</item>
+        <item>computer</item>
+        <item>Electrical</item>
+        <item>Homepainting</item>
+        <item>House keeping</item>
+        <item>Laundry</item>
+        <item>Pest control</item>
+        <item>Spiritual</item>
+        <item>Plumbing</item>
+    </string-array>
+
+    - See more at: http://www.ahotbrew.com/android-dropdown-spinner-example/#sthash.FOGy7AzI.dpuf
+    <string name="hello_world">Please choose one of our services</string>
+    <string name="action_settings">Settings</string>
+</resources>
